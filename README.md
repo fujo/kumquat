@@ -1,14 +1,24 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+aquarelle is a Wordpress Theme. 
 
-### What is this repository for? ###
+### Theme structure ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+.
+├── css
+├── fonts
+├── img
+├── inc
+├── js
+├── languages
+└── templates
 
-### How do I get set up? ###
+### Worpdress ###
+
+* Menu
+* Widgets
+
+### Contribution guidelines ###
 
 * Summary of set up
 * Configuration
